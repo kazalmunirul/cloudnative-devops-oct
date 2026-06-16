@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     TAG: "latest" 
-  parameter_store:
+  parameter-store:
     DOCKER_USER: "/lab8/docker-hub/username" 
     DOCKER_PASS: "/lab8/docker-hub/password" 
     URL: "/lab8/docker-hub/url"
